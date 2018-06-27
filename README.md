@@ -1,2 +1,2 @@
 # SVM
-A python implementation of SVM on MNIST data.
+A python implementation. Use SVM to recognize handwritten digits of MNIST data.
